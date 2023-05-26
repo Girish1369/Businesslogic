@@ -9,7 +9,10 @@ public class multiplication {
 		System.out.println("mulitplication="+multi);
 		a=30;
 		b=40;
-		System.out.println("mulitplication="+multi);
+		System.out.println("mulitplication="+multi); 
+		a=50;
+		b=60;
+		System.out.println("multipication="+multi);
 
 	}
 
