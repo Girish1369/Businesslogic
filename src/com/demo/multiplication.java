@@ -17,6 +17,10 @@ public class multiplication {
 		a=70;
 		b=80;
 		System.out.println("multi="+multi);
+		//conflict example by local
+		a=120;
+		b=130;
+		System.out.println("multi="+a*b);
 		
 
 	}
