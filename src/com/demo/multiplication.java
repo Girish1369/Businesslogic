@@ -13,6 +13,11 @@ public class multiplication {
 		a=50;
 		b=60;
 		System.out.println("multipication="+multi);
+		//merger
+		a=70;
+		b=80;
+		System.out.println("multi="+multi);
+		
 
 	}
 
